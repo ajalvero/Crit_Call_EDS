@@ -1,0 +1,50 @@
+Topic 1 Top Words:
+ 	 Highest Prob: answer, concis, read, question, understand, get, person 
+ 	 FREX: answer, person, section, feel, concis, question, look 
+ 	 Lift: constant, count, miss, passag, slowli, wast, built 
+ 	 Score: answer, section, leav, person, convers, pronoun, passag 
+Topic 2 Top Words:
+ 	 Highest Prob: learn, write, also, communic, challeng, read, much 
+ 	 FREX: learn, scaffold, communic, refer, cours, handwrit, ell 
+ 	 Lift: bring, k, scaffold, analog, attempt, avid, ell 
+ 	 Score: analog, attempt, excit, reli, factor, communic, ell 
+Topic 3 Top Words:
+ 	 Highest Prob: evid, claim, support, reason, make, clear, connect 
+ 	 FREX: claim, reason, evid, connect, back, argument, support 
+ 	 Lift: align, design, explanatori, relationship, thesi, wrong, reason 
+ 	 Score: claim, evid, reason, argument, relationship, back, ngss 
+Topic 4 Top Words:
+ 	 Highest Prob: level, grade, read, struggl, difficulti, mani, write 
+ 	 FREX: level, grade, th, difficulti, lower, high, differenti 
+ 	 Lift: apathi, collect, grade, lexil, level, colleg, depend 
+ 	 Score: level, grade, th, difficulti, lower, infer, nd 
+Topic 5 Top Words:
+ 	 Highest Prob: use, vocabulari, scientif, abl, word, sentenc, correct 
+ 	 FREX: spell, academ, correct, vocabulari, poor, sentenc, grammar 
+ 	 Lift: around, abstract, academ, care, foundat, futur, hate 
+ 	 Score: correct, spell, grammar, word, vocabulari, academ, proper 
+Topic 6 Top Words:
+ 	 Highest Prob: scienc, english, languag, can, understand, write, concept 
+ 	 FREX: english, sens, express, languag, area, translat, phenomena 
+ 	 Lift: area, domain, field, forget, last, memor, occur 
+ 	 Score: express, english, translat, sens, languag, field, phenomena 
+Topic 7 Top Words:
+ 	 Highest Prob: lack, teach, content, challeng, scienc, skill, knowledg 
+ 	 FREX: train, teach, lack, knowledg, less, materi, teacher 
+ 	 Lift: basi, choic, deep, largest, real, sever, simplist 
+ 	 Score: lack, train, teach, less, attend, knowledg, materi 
+Topic 8 Top Words:
+ 	 Highest Prob: text, find, read, detail, often, write, organ 
+ 	 FREX: find, organ, conclus, text, process, instead, detail 
+ 	 Lift: bodi, confus, isnt, quick, special, legibl, organ 
+ 	 Score: find, organ, conclus, detail, text, statement, instead 
+Topic 9 Top Words:
+ 	 Highest Prob: write, scienc, good, student, read, class, often 
+ 	 FREX: write, student, good, scienc, class, believ, often 
+ 	 Lift: lengthi, regist, believ, impress, consid, assumpt, student 
+ 	 Score: scienc, write, student, good, featur, believ, class 
+Topic 10 Top Words:
+ 	 Highest Prob: time, read, abl, understand, can, take, data 
+ 	 FREX: time, cover, take, spend, articl, lot, curriculum 
+ 	 Lift: cover, revis, anyth, encount, fiction, id, line 
+ 	 Score: time, cover, take, spend, physic, anyth, abl
